@@ -1,8 +1,8 @@
-# Datenschutz für Gefrierfach
+# Datenschutz für Frostkeep
 
 Stand: 20. September 2026
 
-Gefrierfach hilft dir, Lebensmittel in deinem Gefrierfach zu verwalten. Datenschutzfragen und Support: **info@emudev.de**.
+Frostkeep hilft dir, Lebensmittel in deinem Gefrierfach zu verwalten. Datenschutzfragen und Support: **info@emudev.de**.
 
 ## Inventar und Fotos
 
@@ -24,7 +24,7 @@ Premium wird als einmaliger In-App-Kauf über Apple angeboten. Die App verwendet
 
 ## Keine Werbung oder Verhaltensanalyse
 
-Gefrierfach enthält keine Werbung, keine Tracking-Technologien und keine Analyse-SDKs von Drittanbietern. Es ist keine Registrierung beim Entwickler erforderlich. Das Betriebssystem kann gemäß deinen Apple-Einstellungen eigene Diagnosedaten verarbeiten.
+Frostkeep enthält keine Werbung, keine Tracking-Technologien und keine Analyse-SDKs von Drittanbietern. Es ist keine Registrierung beim Entwickler erforderlich. Das Betriebssystem kann gemäß deinen Apple-Einstellungen eigene Diagnosedaten verarbeiten.
 
 ## Speicherdauer und Löschung
 

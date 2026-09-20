@@ -1,4 +1,4 @@
-# Gefrierfach – Hilfe & Support
+# Frostkeep – Hilfe & Support
 
 Kontakt: **info@emudev.de**
 
@@ -22,7 +22,7 @@ Auf dem iPhone wird über AirPrint gedruckt; auf dem Mac über den Systemdruckdi
 
 ## iCloud
 
-Verwende auf beiden Geräten denselben Apple Account und aktiviere iCloud für Gefrierfach. Der Abgleich erfolgt automatisch und kann verzögert eintreffen. Prüfe bei Problemen die Verbindung, den iCloud-Status und den verfügbaren iCloud-Speicher. Offline bleiben lokale Einträge nutzbar. Die App unterstützt keine gemeinsame Haushaltsdatenbank zwischen unterschiedlichen Apple Accounts.
+Verwende auf beiden Geräten denselben Apple Account und aktiviere iCloud für Frostkeep. Der Abgleich erfolgt automatisch und kann verzögert eintreffen. Prüfe bei Problemen die Verbindung, den iCloud-Status und den verfügbaren iCloud-Speicher. Offline bleiben lokale Einträge nutzbar. Die App unterstützt keine gemeinsame Haushaltsdatenbank zwischen unterschiedlichen Apple Accounts.
 
 ## Premium
 
