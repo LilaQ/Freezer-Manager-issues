@@ -37,3 +37,15 @@ Erlaube den Kamerazugriff in den Systemeinstellungen, um zu scannen oder Fotos a
 ## Kontakt aufnehmen
 
 Beschreibe das Problem, deine App-Version und dein Betriebssystem in einer E-Mail an **info@emudev.de**. Bitte sende keine Zahlungsdaten, Passwörter oder unnötigen persönlichen Informationen.
+
+## Kategorien, Lagerorte und eigene Codes
+
+Unter **Verwalten** kannst du Kategorien und Lagerorte benennen, mit Symbolen versehen oder entfernen. Sie werden über iCloud synchronisiert. Beim Hinzufügen werden vorhandene Lagerorte vorgeschlagen; im Inventar kannst du nach Lagerort filtern. Unter **Notizen & Etikettcode** kannst du einen zusätzlichen eigenen Artikelcode eingeben. Die feste QR-Kennung bleibt beim Bearbeiten erhalten.
+
+## NFC und Bluetooth-Drucker
+
+Auf kompatiblen iPhones kannst du unter **Scannen → NFC** Frostkeep-Tags lesen oder leere, beschreibbare NDEF-Tags vorbereiten. NTAG213 bietet genug Platz für eine Artikelkennung. Wähle gefriergeeignete Etiketten. In den Artikeldetails kannst du die vorhandene Kennung auf einen leeren Tag schreiben. Mac und iPad besitzen keinen eingebauten NFC-Leser; die Artikel werden über iCloud synchronisiert.
+
+Reine Bluetooth-Drucker benötigen eventuell ihre Hersteller-App. Eine universelle Bluetooth-Kompatibilität ist nicht zugesichert. Nutze einen kompatiblen Systemdrucker oder sichere die PDF für eine passende Druck-App. AirPrint wählt das ähnlichste unterstützte Papierformat; kontrolliere die Maße im Druckdialog.
+
+**Einstellungen → iCloud-Synchronisierung → Aktualisieren** prüft die Verbindung und zeigt den Prüfzeitpunkt. Es erzwingt keinen sofortigen Upload.

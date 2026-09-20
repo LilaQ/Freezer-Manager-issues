@@ -33,3 +33,7 @@ Items and photos remain stored until you delete them. Taking an item out archive
 ## Your choices and contact
 
 You can view, edit and delete your entries and change camera permissions in system settings. For questions or requests concerning your privacy rights, contact **info@emudev.de**. Please avoid sending sensitive inventory details or photos unless needed for your request. If you contact support by email, your message and sender information are used to handle your request.
+
+## Custom groups, item codes and NFC
+
+Custom categories, locations, symbols and additional item codes are stored locally and in your private iCloud database. Groups can be edited and deleted in Organize. Deleting all items does not automatically remove separately managed groups. NFC is used only for reading and writing sessions you start. An NFC tag contains the same random item identity as a QR label, not inventory details. Existing unrelated tag data is not overwritten. You manage or dispose of physical tags and PDFs separately.

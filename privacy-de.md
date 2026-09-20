@@ -33,3 +33,7 @@ Artikel und Fotos bleiben gespeichert, bis du sie löschst. „Entnehmen“ arch
 ## Deine Möglichkeiten und Kontakt
 
 Du kannst deine Einträge einsehen, bearbeiten und löschen sowie Kameraberechtigungen in den Systemeinstellungen ändern. Bei Fragen oder Anliegen zu Datenschutzrechten wende dich an **info@emudev.de**. Bitte sende keine sensiblen Inventarinhalte oder Fotos, wenn diese für deine Anfrage nicht benötigt werden. Wenn du per E-Mail Kontakt aufnimmst, werden deine Nachricht und Absenderangaben zur Bearbeitung der Anfrage verwendet.
+
+## Eigene Gruppen, Artikelcodes und NFC
+
+Eigene Kategorien, Lagerorte, Symbole und zusätzliche Artikelcodes werden lokal und in der privaten iCloud-Datenbank gespeichert. Gruppen lassen sich unter Verwalten bearbeiten und löschen. Das Löschen aller Artikel entfernt nicht automatisch die separat verwalteten Gruppen. NFC wird nur für von dir gestartete Lese- und Schreibvorgänge verwendet. Ein NFC-Tag enthält dieselbe zufällige Artikelkennung wie ein QR-Etikett, keine Inventardetails. Bereits beschriebene fremde Tags werden nicht überschrieben. Physische Tags und PDFs musst du separat löschen oder entsorgen.

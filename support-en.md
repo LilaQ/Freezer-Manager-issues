@@ -37,3 +37,15 @@ Allow camera access in system settings to scan or take photos. Share individual 
 ## Contacting support
 
 Email **info@emudev.de** with a description of the problem, your app version and operating system. Do not send payment details, passwords or unnecessary personal information.
+
+## Categories, locations and personal codes
+
+Use **Organize** to name, assign symbols to, or remove categories and locations. They sync through iCloud. Existing locations are suggested when adding items, and inventory can be filtered by location. **Notes & label code** accepts an additional personal item code. Editing an item preserves its permanent QR identity.
+
+## NFC and Bluetooth printers
+
+On compatible iPhones, use **Scan → NFC** to read Frostkeep tags or prepare blank, writable NDEF tags. NTAG213 has enough space for an item identity. Choose freezer-safe labels. Item details can write an existing identity to a blank tag. Mac and iPad have no built-in NFC reader; items sync through iCloud.
+
+Bluetooth-only printers may require their manufacturer’s app. Universal Bluetooth compatibility is not guaranteed. Use a compatible system printer or save the PDF for a suitable printing app. AirPrint chooses the closest supported paper size; check dimensions in the print dialog.
+
+**Settings → iCloud sync → Refresh** checks connectivity and displays the check time. It does not force an immediate upload.
