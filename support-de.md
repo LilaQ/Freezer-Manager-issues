@@ -6,7 +6,7 @@ Kontakt: **info@emudev.de**
 
 Tippe auf **Hinzufügen**, trage einen Namen und optional Menge, Lagerort, Datum, Notizen oder ein Foto ein und speichere den Artikel. Das Erfassungsdatum wird automatisch gespeichert. Über **Inventar** kannst du suchen, nach Kategorien filtern und Artikeldetails öffnen.
 
-**Entnehmen** verschiebt den Artikel in die Ansicht **Entnommene**. Dort kannst du ihn wieder einlagern oder dauerhaft löschen. Die Entnahme ist mit und ohne Scan möglich. Ein selbst gewähltes Verbrauchsdatum ist eine Erinnerung und keine Beurteilung der Lebensmittelsicherheit.
+**Entnehmen** verschiebt den Artikel in die Ansicht **Entnommen**. Dort kannst du ihn wieder einlagern oder dauerhaft löschen. Die Entnahme ist mit und ohne Scan möglich. Ein selbst gewähltes Verbrauchsdatum ist eine Erinnerung und keine Beurteilung der Lebensmittelsicherheit.
 
 ## QR-Etiketten
 
@@ -18,7 +18,7 @@ Unter **Etiketten** kannst du eindeutige Sticker vorab erzeugen. Scanne einen ne
 
 Wähle eine Formatvorlage oder trage Seiten- und Etikettmaße, Ränder und Abstände in Millimetern ein. Bei einem angebrochenen Bogen kannst du leere Startpositionen überspringen. Kontrolliere die PDF-Vorschau und teste die Ausrichtung zunächst auf Normalpapier.
 
-Auf dem iPhone wird über AirPrint gedruckt; auf dem Mac über den Systemdruckdialog. Der Drucker muss das gewählte Papier- oder Rollenformat unterstützen. Wähle die passende Papiergröße und nach Möglichkeit 100 % beziehungsweise Originalgröße. Ohne kompatiblen Drucker kannst du die PDF sichern und über eine passende Drucksoftware ausgeben.
+Auf iPhone und iPad wird über AirPrint gedruckt; auf dem Mac über den Systemdruckdialog. Der Drucker muss das gewählte Papier- oder Rollenformat unterstützen. Wähle die passende Papiergröße und nach Möglichkeit 100 % beziehungsweise Originalgröße. Ohne kompatiblen Drucker kannst du die PDF sichern und über eine passende Drucksoftware ausgeben.
 
 ## iCloud
 

@@ -6,7 +6,7 @@ Contact: **info@emudev.de**
 
 Choose **Add item**, enter a name and optional quantity, location, dates, notes or photo, then save. The creation date is recorded automatically. In **Inventory**, search, filter by category and open item details.
 
-**Take out of freezer** moves an item to **Taken out**. From there, put it back or delete it permanently. You can take items out with or without scanning. A use-by date is a personal reminder, not a food safety assessment.
+**Take out** moves an item to **Taken out**. From there, put it back or delete it permanently. You can take items out with or without scanning. A use-by date is a personal reminder, not a food safety assessment.
 
 ## QR labels
 
@@ -18,7 +18,7 @@ Print the same code again from item details. Do not use copies of one code for d
 
 Choose a preset or enter page and label dimensions, margins and gaps in millimeters. Skip starting positions to use a partially used sheet. Check the PDF preview and test alignment on plain paper first.
 
-iPhone printing uses AirPrint; Mac printing uses the system print dialog. Your printer must support the selected paper or roll size. Choose the correct paper size and 100% or actual-size printing where available. If your printer is incompatible, save the PDF and print it with suitable printer software.
+iPhone and iPad printing use AirPrint; Mac printing uses the system print dialog. Your printer must support the selected paper or roll size. Choose the correct paper size and 100% or actual-size printing where available. If your printer is incompatible, save the PDF and print it with suitable printer software.
 
 ## iCloud
 
